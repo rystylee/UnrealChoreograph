@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Choreograph",
+	"Description": "",
+	"Category": "Animation",
+	"CreatedBy": "rystylee",
+	"CreatedByURL": "https://github.com/rystylee",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Choreograph",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
